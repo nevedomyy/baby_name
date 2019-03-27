@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "508828334757",
+    "firebase_url": "https://baby-76ff7.firebaseio.com",
+    "project_id": "baby-76ff7",
+    "storage_bucket": "baby-76ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508828334757:android:09edfa0013234663",
+        "android_client_info": {
+          "package_name": "com.beispiel.baby_name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508828334757-c11aj6v2v09175mj6d8udhvn911a4pg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8Qllb5Cm3dsQ2VhM9yItO_yDOSl27hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
